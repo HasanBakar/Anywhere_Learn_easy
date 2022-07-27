@@ -3,13 +3,21 @@
 }
 
 #carousel__text__align {
-
-    /* padding-bottom: 20vh; */
     height: 80%;
     padding-left: 3%;
     padding-right: 3%;
     padding-top: 10%;
     padding-bottom: 10%;
     line-height: 40px;
+}
 
+footer {
+    height: 60vh;
+}
+
+.resize__icon {
+    height: 45px;
+    width: 45px;
+    padding: 4px;
+    line-height: 4px;
 }
