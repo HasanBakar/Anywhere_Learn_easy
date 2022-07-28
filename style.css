@@ -18,6 +18,10 @@
     height: 100%;
 }
 
+#resize__FAQ {
+    margin: 8px 16vw;
+}
+
 footer {
     height: 60vh;
 }
