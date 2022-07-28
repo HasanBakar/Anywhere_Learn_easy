@@ -1,0 +1,16 @@
+
+Assignment - 3
+ 
+ >>>>>>> Mandatory part Assignment
+
+1. navbar section
+2. slider section
+3. Popular courses section
+4.  FAQ section
+5. footer section
+
+>>>>>>>>Bonus part Assignment
+1. Ready to join section with a Toast
+2. Trusted companies section but don't show in the Tablet and Mobile view
+
+Note: Must be Responsive in Desktop, Tablet and Mobile.
