@@ -7,6 +7,12 @@
     line-height: 40px;
 }
 
+.box__align {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
 footer {
     height: 60vh;
 }
