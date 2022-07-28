@@ -18,6 +18,12 @@
     height: 100%;
 }
 
+#resize__join {
+    width: 100%;
+    height: 36vh;
+    padding: 0 4vw;
+}
+
 #resize__FAQ {
     margin: 8px 16vw;
 }
